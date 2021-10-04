@@ -1,6 +1,6 @@
-# Accept a Card Payment
+# Checkout and Invoice
 
-Build a simple checkout form to collect card details. Included are some basic build and run scripts you can use to start up the application.
+A simple checkout form to verify the card and send an invoice to the the customer through stripe. 
 
 ## Running the sample
 
