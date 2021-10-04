@@ -1,6 +1,6 @@
 # Checkout and Invoice
 
-A simple checkout form to verify the card and send an invoice to the the customer through stripe. 
+A simple checkout form to verify the card and send an invoice to the customer through stripe. 
 
 ## Running the sample
 
